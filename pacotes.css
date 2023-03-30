@@ -1,0 +1,427 @@
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: green;
+    height: 8vh;
+    width: 2000px;
+    margin-left: 0px;
+}
+
+.barranavcomprar {
+    list-style: none;
+    display: flex;
+    margin-left: 68px;
+}
+
+.barranavcomprar li {
+    letter-spacing: 4px;
+    margin-left: 70px;
+    
+}
+
+body {
+    margin: 0;
+    min-height:100vh;
+    display: flex;
+}
+a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    transition: 0.3;
+}
+
+a:hover{
+    opacity:0.7;
+}
+
+.logo {
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+}
+
+.conteudo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: 100vh;
+}
+
+.produto {
+    background: white;
+    border-radius: 20px;
+    box-shadow: 2px 4px 23px rgb(227, 227, 227);
+    width: 400px;
+    height: 486px;
+    right: 75%;
+    position: absolute;
+    margin-top: -200px;
+}
+
+.imagem {
+background: url(istockphoto-810940330-170667a.jpg) center/cover;
+height: 200px;
+width: 100%;
+}
+
+.comprar {
+    color: green;
+    padding: 15px;
+    border: none;
+    border-radius: 50px;
+    color: black;
+    font-weight: 400;
+    font-size: 1.2rem;
+    margin-top: 10px;
+    letter-spacing: .11rem;
+    outline: none;
+    width: 400px;
+}
+
+body {
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;;
+}
+
+.ad {
+    color: black;
+}
+
+.sul {
+    margin-top: 80px;
+    right: 1800px;
+    position: absolute;
+}
+
+.sudeste {
+    margin-top: 650px;
+    right: 1730px;
+    position: absolute;
+}
+
+.produto2 {
+    background: white;
+    border-radius: 20px;
+    box-shadow: 2px 4px 23px rgb(227, 227, 227);
+    width: 400px;
+    height: 486px;
+    right: 75%;
+    position: absolute;
+    margin-top: 50%;
+}
+
+.imagem2 {
+    background: url(istockphoto-510863984-170667a.jpg) center/cover;
+    height: 200px;
+    width: 100%;
+    }
+
+    .Nordeste {
+        margin-top: 1220px;
+        right: 90%;
+        position: absolute;
+    }
+
+    .produto3 {
+        background: white;
+        border-radius: 20px;
+        box-shadow: 2px 4px 23px rgb(227, 227, 227);
+        width: 400px;
+        height: 486px;
+        right: 75%;
+        position: absolute;
+        margin-top: 110%;
+    }
+
+    .imagem3 {
+        background: url(recife.jpg) center/cover;
+    height: 200px;
+    width: 100%;
+    }
+
+    .Centro-oeste {
+        margin-top: 1790px;
+        right: 1650px;
+        position: absolute;
+    }
+
+    .Norte {
+        margin-top: 2360px;
+        right: 1765px;
+        position: absolute;
+    }
+
+    .produto4 {
+        background: white;
+        border-radius: 20px;
+        box-shadow: 2px 4px 23px rgb(227, 227, 227);
+        width: 400px;
+        height: 486px;
+        right: 75%;
+        position: absolute;
+        margin-top: 170%;
+    }
+
+    .imagem4 {
+        background: url(Brasilia.jpg) center/cover;
+        height: 200px;
+        width: 100%;
+    }
+
+    .produto5 {
+        background: white;
+        border-radius: 20px;
+        box-shadow: 2px 4px 23px rgb(227, 227, 227);
+        width: 400px;
+        height: 486px;
+        right: 75%;
+        position: absolute;
+        margin-top: 230%;
+    }
+    .imagem5 {
+        background: url(amazonas-manaus-teatro-scaled.jpg) center/cover;
+        height: 200px;
+        width: 100%;
+    }
+
+    .produto6 {
+        background: white;
+        border-radius: 20px;
+        box-shadow: 2px 4px 23px rgb(227, 227, 227);
+        width: 400px;
+        height: 486px;
+        right: 50%;
+        position: absolute;
+        margin-top: -200px;
+    }
+    .imagem6 {
+        background: url(9bba5297-47b5-46e0-931b-abcc17053949.webp) center/cover;
+        height: 200px;
+        width: 100%;
+    }
+    .produto7 {
+        background: white;
+        border-radius: 20px;
+        box-shadow: 2px 4px 23px rgb(227, 227, 227);
+        width: 400px;
+        height: 486px;
+        right: 50%;
+        position: absolute;
+        margin-top: 50%;
+    }
+    .imagem7 {
+        background: url(default.jpeg) center/cover;
+        height: 200px;
+        width: 100%;
+    }
+    .produto8 {
+        background: white;
+        border-radius: 20px;
+        box-shadow: 2px 4px 23px rgb(227, 227, 227);
+        width: 400px;
+        height: 486px;
+        right: 50%;
+        position: absolute;
+        margin-top: 110%;
+    }
+    .imagem8 {
+        background: url(pelourinho.jpg) center/cover;
+        height: 200px;
+        width: 100%;
+    }
+    .produto9 {
+        background: white;
+        border-radius: 20px;
+        box-shadow: 2px 4px 23px rgb(227, 227, 227);
+        width: 400px;
+        height: 486px;
+        right: 50%;
+        position: absolute;
+        margin-top: 170%;
+    }
+    .imagem9 {
+        background: url(DJI_0007-HDR.jpg) center/cover;
+        height: 200px;
+        width: 100%;
+    }
+
+    .produto10 {
+        background: white;
+        border-radius: 20px;
+        box-shadow: 2px 4px 23px rgb(227, 227, 227);
+        width: 400px;
+        height: 486px;
+        right: 50%;
+        position: absolute;
+        margin-top: 230%;
+    }
+    .imagem10 {
+        background: url(ver-o-peso.webp) center/cover;
+        height: 200px;
+        width: 100%;
+    }
+
+    .produto11 {
+        background: white;
+        border-radius: 20px;
+        box-shadow: 2px 4px 23px rgb(227, 227, 227);
+        width: 400px;
+        height: 486px;
+        right: 25%;
+        position: absolute;
+        margin-top: -200px;
+    }
+    .imagem11 {
+        background: url(foto30cul-501-curitiba-d6.webp) center/cover;
+        height: 200px;
+        width: 100%;
+    }
+
+    .produto12 {
+        background: white;
+        border-radius: 20px;
+        box-shadow: 2px 4px 23px rgb(227, 227, 227);
+        width: 400px;
+        height: 486px;
+        right: 25%;
+        position: absolute;
+        margin-top: 50%;
+    }
+    .imagem12 {
+        background: url(guia-rio-de-janeiro-to-de-passagem.jpg) center/cover;
+        height: 200px;
+        width: 100%;
+    }
+
+    .produto13 {
+        background: white;
+        border-radius: 20px;
+        box-shadow: 2px 4px 23px rgb(227, 227, 227);
+        width: 400px;
+        height: 486px;
+        right: 25%;
+        position: absolute;
+        margin-top: 110%;
+    }
+    .imagem13 {
+        background: url(vista-aerea-centro-historico-sao-luis.jpg) center/cover;
+        height: 200px;
+        width: 100%;
+    }   
+    .produto14 {
+        background: white;
+        border-radius: 20px;
+        box-shadow: 2px 4px 23px rgb(227, 227, 227);
+        width: 400px;
+        height: 486px;
+        right: 25%;
+        position: absolute;
+        margin-top: 170%;
+    }
+    .imagem14 {
+        background: url(Vaca_Brava_Park_in_Goiânia\,_Brazil.jpg) center/cover;
+        height: 200px;
+        width: 100%;
+    }   
+
+    .produto15 {
+        background: white;
+        border-radius: 20px;
+        box-shadow: 2px 4px 23px rgb(227, 227, 227);
+        width: 400px;
+        height: 486px;
+        right: 25%;
+        position: absolute;
+        margin-top: 230%;
+    }
+    .imagem15 {
+        background: url(17.jpg) center/cover;
+        height: 200px;
+        width: 100%;
+    }   
+
+    .produto16 {
+        background: white;
+        border-radius: 20px;
+        box-shadow: 2px 4px 23px rgb(227, 227, 227);
+        width: 400px;
+        height: 486px;
+        right: 0%;
+        position: absolute;
+        margin-top: -200px;
+    }
+    .imagem16 {
+        background: url(florianopolis.jpg) center/cover;
+        height: 200px;
+        width: 100%;
+    }   
+    .produto17 {
+        background: white;
+        border-radius: 20px;
+        box-shadow: 2px 4px 23px rgb(227, 227, 227);
+        width: 400px;
+        height: 486px;
+        right: 0%;
+        position: absolute;
+        margin-top: 50%;
+    }
+    .imagem17 {
+        background: url(Praca_do_Papa\,_Belo_Horizonte.jpg) center/cover;
+        height: 200px;
+        width: 100%;
+    }   
+    .produto18 {
+        background: white;
+        border-radius: 20px;
+        box-shadow: 2px 4px 23px rgb(227, 227, 227);
+        width: 400px;
+        height: 486px;
+        right: 0%;
+        position: absolute;
+        margin-top: 110%;
+    }
+    .imagem18 {
+        background: url(natal-mag-capa-1200x675\ \(1\).jpg) center/cover;
+        height: 200px;
+        width: 100%;
+    }   
+    .produto20 {
+        background: white;
+        border-radius: 20px;
+        box-shadow: 2px 4px 23px rgb(227, 227, 227);
+        width: 400px;
+        height: 486px;
+        right: 0%;
+        position: absolute;
+        margin-top: 230%;
+    }
+    .imagem20 {
+        background: url(macapa-amapa.jpeg) center/cover;
+        height: 200px;
+        width: 100%;
+    }   
+
+    .produto19 {
+        background: white;
+        border-radius: 20px;
+        box-shadow: 2px 4px 23px rgb(227, 227, 227);
+        width: 400px;
+        height: 486px;
+        right: 0%;
+        position: absolute;
+        margin-top: 170%;
+    }
+    .imagem19 {
+        background: url(monumento.jpg) center/cover;
+        height: 200px;
+        width: 100%;
+    }   
+
+
+
+
+
+
